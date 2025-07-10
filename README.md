@@ -1,4 +1,4 @@
-# Excel-Styleheet 
+# Excel-Stylesheet 
 
 A front-end-only React + TypeScript prototype that visually and functionally replicates a modern spreadsheet interface for managing job requests. Inspired by tool like Google Sheets, this application is optimized for data tracking workflows such as task management, operations, and financial planning.
 
